@@ -1,0 +1,22 @@
+{
+  "name": "social-media-app-e2e-test",
+  "version": "1.0.0",
+  "description": "A test project of a social media app using cypress.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NazrulChowdhury/Social-Media-App-E2E-test.git"
+  },
+  "author": "Nazrul Chowdhury",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NazrulChowdhury/Social-Media-App-E2E-test/issues"
+  },
+  "homepage": "https://github.com/NazrulChowdhury/Social-Media-App-E2E-test#readme",
+  "devDependencies": {
+    "cypress": "^7.2.0"
+  }
+}
