@@ -1,5 +1,5 @@
 # Cypress E2E test project
-A test project of a social media app using cypress. 
+A UI automation test project of a social media app using cypress. 
 
 Originial Application's github repo link:
 https://github.com/dch133/Social-Media-App
